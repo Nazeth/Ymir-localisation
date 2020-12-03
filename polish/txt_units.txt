@@ -7,113 +7,116 @@ Knurek
 #u_sow
 Maciorka
 
+#u_carrier
+Tragarz
+
 #u_piglet
 Prosiak
 
 #u_oldpig
-Staroknur
+Dziadoknur
 
 #u_warrior
-Wojswin
+Wojświn
 
 #u_axepig
-Toporswin
+Topórświn
 
 #u_swordpig
-Mieczswin
+Mieczświn
 
 #u_swordboar
 Mieczknur
 
 #u_porcus
-Wieprzus
+Knurus
 
 #u_snout
 Ryjek
 
 #u_spearpig
-Wl�czswin
+Wlóczświn
 
 #u_hoplite
-Hoplitswin
+Hoplświn
 
 #u_immortal
-Niesmiertelswin
+Nieśmiertelświn
 
 #u_voulger
-Voulger
+Ochotświn
 
 #u_warhog
-Wieprz wojny
+Knur wojny
 
 #u_battleswine
-Swinia bitewna
+Wielki mieczświn
 
 #u_baconeer
-Bekonier
+Bocznik
 
 #u_martelsnout
-Mlotswin
+Młotświn
 
 #u_javelin
-Oszczeswin
+Oszczepświn
 
 #u_bowpig
-Lukswin
+Łuczświn
 
 #u_longbowpig
-Strzelswin z lukiem dlugim
+Długi łuczświn
 
 #u_crossbowpig
-Kuszswin
+Kuszświn
 
 #u_horsepig
-Jezdziec konny
+Jeźdzświn konny
 
 #u_cataphract
 Katafrakt
 
 #u_pigatarms
-Zbrojswin
+Zbrojświn
 
 #u_mntdarcher
-Luczswin konny
+Łuczświn konny
 
 #u_camelpig
-Jezdziec wielbladzi
+Jeźdzświn wielbłądzi
 
 #u_camephract
-Katafrakt wielbladzi
+Katafrakt wielbłądzi
 
 #u_camelier
 Saladyn
 
 #u_camelbow
-Luczswin wielbladzi
+Łuczświn wielbłądzi
 
 #u_stomper
-Deptacz
+Tupacz
 
 #u_cubiphant
-Cubiphant
+Łamignat
 
 #u_crusher
-Miazdzyswin
+Miażdzyciel
 
 #u_megaphant
-Megaphant
+Megamut
 
 #u_killerrabbit
-Niezwykly kr�lik
+Niezwykły królik
 
 #u_porkoderthal1
-Porkoderthal
+Knurodentalczyk
 
 #u_horse
-Kon
+Koń
 
 #u_elephant
-Slon
+Słoń
 
 #u_mammoth
 Mamut
@@ -125,22 +128,22 @@ Pies
 Owca
 
 #u_rabbit
-Kr�lik
+Królik
 
 #u_deer
-Jelen
+Jeleń
 
 #u_cow
 Krowa
 
 #u_buffalo
-Baw�l
+Bawół
 
 #u_capybara
 Kapibara
 
 #u_camel
-Wielblad
+Wielbłąd
 
 #u_goat
 Koza
@@ -152,7 +155,7 @@ Kura
 Lama
 
 #u_ostrich
-Strus
+Struś
 
 #u_fish
 Ryba
@@ -167,25 +170,25 @@ Ptak
 Papuga
 
 #u_sparrow
-Wr�bel
+Wróbel
 
 #u_wolf
 Wilk
 
 #u_bear
-Niedzwiedz
+Niedźwiedź
 
 #u_pitsotl
 Pitsotl
 
 #u_eaglewarrior
-Wojswin orla
+Orli wójświn
 
 #u_wolfwarrior
-Wojswin wilka
+Wilczy wójświn
 
 #u_bearserker
-Berserswin
+Berserświn
 
 #u_rockthrower
 Miotacz kamieni
